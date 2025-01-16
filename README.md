@@ -57,6 +57,6 @@ END;
 > Click [HERE](https://github.com/HananMoAlnakhal/Blood-Bank-Database/blob/main/INSERT%20INTO.sql) to see the full code
 
 # ***The select statements + views in the project files***
-> You can download and run the database using the full SQL reales
+> You can download and run the database using the full SQL in Releases 
 
 
